@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nishat-nayla
-- 👀 I’m interested in problrm solving, data analysis, critical thinking.
+- 👀 I’m interested in problem solving, data analysis, critical thinking.
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
